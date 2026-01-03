@@ -49,7 +49,7 @@
     <div class="card" style="margin-bottom: 12px;">
       <div class="h1">Setup</div>
       <div class="muted" style="margin: 6px 0 10px;">
-        Paste your published Google Sheet CSV link below (one-time). It saves on this device.
+        https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1e2H95OOk65fXbvYT5hdGIMRWvXdJeGc7bM6BErPGxfbNOdhketj5ufnBIYnb9oen_xVFFQ87Ybc/pub?gid=0&single=true&output=csv
       </div>
       <input id="csvUrlInput" placeholder="Paste published CSV URL here" />
       <div class="row">
