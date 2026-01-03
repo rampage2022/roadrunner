@@ -2,7 +2,7 @@
 // Option 1 (recommended): user pastes CSV URL in the app (saved to device).
 // Option 2: hardcode it here and it will "just work":
 // const DEFAULT_CSV_URL = "PASTE_YOUR_PUBLISHED_CSV_URL_HERE";
-const DEFAULT_CSV_URL = "";
+const DEFAULT_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRH1e2H95OOk65fXbvYT5hdGIMRWvXdJeGc7bM6BErPGxfbNOdhketj5ufnBIYnb9oen_xVFFQ87Ybc/pub?gid=0&single=true&output=csv";
 
 // ====== Helpers ======
 function getRouteFromPath() {
